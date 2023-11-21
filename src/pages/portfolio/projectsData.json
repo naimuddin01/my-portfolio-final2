@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Doctors portal",
+    "image": "./projectImages/doctorsPortal/doctors.jpg",
+    "projectImg": [
+      "./projectImages/doctorsPortal/home.JPG",
+      "./projectImages/doctorsPortal/appoinntent.JPG",
+      "./projectImages/doctorsPortal/appoinntent2.JPG",
+      "./projectImages/doctorsPortal/appoinntent3.JPG",
+      "./projectImages/doctorsPortal/dashboard.JPG"
+    ],
+    "technologies": [
+      "Tailwind CSS",
+      "JavaScript",
+      "React js",
+      "Node js",
+      "HTML",
+      "Firebase",
+      "JWT",
+      "Express js",
+      "MongoDB",
+      "CSS3"
+    ],
+    "description": "I'm thrilled to present my project, a Doctors Portal website developed from scratch using React.js and Node.js. This platform empowers users to seamlessly book appointments with specific doctors at their preferred times and offers a comprehensive view of all appointments.",
+    "github": "https://github.com/naimuddin01/doctors-portal-client",
+    "deployed": "https://norrinradd8.github.io/bike_buddy/",
+    "bgcolor": "var(--hl2-color)",
+    "topics": [
+      {
+        "topic": "Appointment Booking",
+        "topicDetails": "Users can effortlessly schedule appointments with various types of doctors based on their specialization and availability."
+      },
+      {
+        "topic": "Time Slot Selection",
+        "topicDetails": "The platform allows users to select specific dates and times that suit their schedules, making it easy to find a convenient slot."
+      },
+      {
+        "topic": "Doctor Categories",
+        "topicDetails": "The website categorizes doctors by their specialties, ensuring users can find the right healthcare professional for their needs."
+      },
+      {
+        "topic": "Appointment Overview",
+        "topicDetails": "Users have access to a user-friendly dashboard displaying all their appointments in one place, simplifying the management of their medical schedule."
+      },
+      {
+        "topic": "Doctor Availability",
+        "topicDetails": "Doctors can update their availability in real-time, ensuring users have the most accurate appointment options."
+      },
+      {
+        "topic": "User authentication",
+        "topicDetails": "Permit users to register, safely log in, and update their personal information on their profiles."
+      },
+      {
+        "topic": "Doctor's Schedule Management",
+        "topicDetails": "Enable physicians to update their availability, manage their schedules, and set aside time for pauses or other obligations."
+      }
+    ]
+  },
+  {
+    "title": "e-commerce",
+    "image": "./projectImages/e-commerce/ecommerce.jpg",
+    "projectImg": [
+      "./projectImages/e-commerce/home.jpg",
+      "./projectImages/e-commerce/reviewpage.jpg",
+      "./projectImages/e-commerce/shipping01.jpg",
+      "./projectImages/e-commerce/shipping02.jpg"
+    ],
+    "technologies": [
+      "JavaScript",
+      "React js",
+      "Node js",
+      "Express js",
+      "MongoDB",
+      "Firebase",
+      "SSL",
+      "HTML",
+      "CSS"
+    ],
+    "description": "a node.js and react-built e-commerce platform that offers customers a seamless purchasing experience. Features include secure checkout with PayPal integration and SSL, product browsing, cart management, order history tracking in customer profiles, and user registration and login. Guests can shop without any hassles. Moreover, REST APIs can be used to retrieve product lists and details.",
+    "github": "https://github.com/naimuddin01/ema-john-simple",
+    "deployed": "https://mdyeates.github.io/weather-app/",
+    "bgcolor": "var(--hl-color)",
+    "topics": [
+      {
+        "topic": "User Authentication",
+        "topicDetails": "User registration and login for personalized shopping experiences. Guest users can explore and shop without signing in."
+      },
+      {
+        "topic": "Product Catalog",
+        "topicDetails": "Browse an extensive product catalog with detailed descriptions and images. Fetch product lists and details through APIs."
+      },
+      {
+        "topic": "Shopping Cart",
+        "topicDetails": "Add items to the cart and manage quantities. Easily review and modify your cart's contents."
+      },
+      {
+        "topic": "Secure Checkout",
+        "topicDetails": "Integration with SSL for secure and trusted payment processing."
+      },
+      {
+        "topic": "Order History",
+        "topicDetails": "Completed orders are automatically logged in the user's profile. Easily track past orders and reorder favorite items."
+      },
+      {
+        "topic": "Order History",
+        "topicDetails": "Utilize RESTful APIs to retrieve product lists and details programmatically."
+      }
+    ]
+  },
+  {
+    "title": "Food Market",
+    "image": "./projectImages/foodMarket/foodmarket.JPG",
+    "projectImg": [
+      "./projectImages/foodMarket/homePage.JPG",
+      "./projectImages/foodMarket/foodList.JPG",
+      "./projectImages/foodMarket/cartList.JPG",
+      "./projectImages/foodMarket/paymentOption.JPG",
+      "./projectImages/foodMarket/adminDashboard.JPG",
+      "./projectImages/foodMarket/manageItem.JPG",
+      "./projectImages/foodMarket/addItem.JPG"
+    ],
+    "technologies": [
+      "HTML",
+      "TanStake Query",
+      "Axios",
+      "React Bootstrap",
+      "Tailwind CSS",
+      "JavaScript",
+      "ES6",
+      "React js",
+      "Firebase",
+      "Express ",
+      "JSON Web Token(JWT)",
+      "MongoDB",
+      "Node js"
+    ],
+    "description": "I'm thrilled to present my project, a React.js-built food market website where customers can browse a huge selection of mouthwatering options, add items to their carts, and place orders with a simple payment process. Strong search and filtering tools have been implemented, enabling users to locate the precise meal they're looking for with ease.",
+    "github": "https://github.com/naimuddin01/bistro-boss-client",
+    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "bgcolor": "#6c4bf4",
+    "topics": [
+      {
+        "topic": "Stripe Payment Integration",
+        "topicDetails": "For safe and practical online transactions, integrate the Stripe payment gateway."
+      },
+      {
+        "topic": "Admin Dashboard",
+        "topicDetails": "To make food management and order monitoring tools easily accessible, create a separate admin dashboard."
+      },
+      {
+        "topic": "Security Protocols for Administrator Access:",
+        "topicDetails": "To make sure that only authorised administrators may access and manage food items, implement secure authentication and authorization mechanisms."
+      },
+      {
+        "topic": "Search and Filter",
+        "topicDetails": "Implemented powerful search and filter features, allowing users to quickly find the exact meal they desire."
+      },
+      {
+        "topic": "User-Friendly Cart",
+        "topicDetails": "Users can easily select their favorite items and add them to their cart for a smooth and convenient shopping experience."
+      },
+      {
+        "topic": "Order History",
+        "topicDetails": "This system keeps a comprehensive order history, making it simple for users to reorder their favorite dishes."
+      },
+      {
+        "topic": "Responsive Design:",
+        "topicDetails": "The website is designed to provide an excellent user experience across various devices, from desktop to mobile."
+      }
+    ]
+  },
+  {
+    "title": "Hostel Meal Management",
+    "image": "./projectImages/hostel_meal_management/hostel.JPG",
+    "projectImg": [
+      "./projectImages/hostel_meal_management/hostel.JPG",
+      "./projectImages/hostel_meal_management/pic02.JPG",
+      "./projectImages/hostel_meal_management/14.JPG",
+      "./projectImages/hostel_meal_management/15.JPG",
+      "./projectImages/hostel_meal_management/16.JPG",
+      "./projectImages/hostel_meal_management/pic03.JPG",
+      "./projectImages/hostel_meal_management/pic04.JPG",
+      "./projectImages/hostel_meal_management/pic05.JPG",
+      "./projectImages/hostel_meal_management/pic06.JPG",
+      "./projectImages/hostel_meal_management/pic07.JPG",
+      "./projectImages/hostel_meal_management/pic08.JPG",
+      "./projectImages/hostel_meal_management/pic09.JPG",
+      "./projectImages/hostel_meal_management/pic10.JPG",
+      "./projectImages/hostel_meal_management/pic11.JPG",
+      "./projectImages/hostel_meal_management/pic12.JPG",
+      "./projectImages/hostel_meal_management/pic13.JPG"
+    ],
+    "technologies": [
+      "HTML",
+      "Tailwind CSS",
+      "JavaScript",
+      "ES6",
+      "React js",
+      "Firebase",
+      "Express js",
+      "MongoDB",
+      "Node js",
+      "JWT"
+    ],
+    "description": "I'm excited to present my project, a hostel meal management website made to make mealtimes in residence halls easier for students. This platform, which was built from the ground up with React.js and Node.js, provides a seamless overview of meal consumption, department-specific features, and a detailed meal history.",
+    "github": "https://github.com/naimuddin01/hall-management-client",
+    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "bgcolor": "#f85781",
+    "topics": [
+      {
+        "topic": "Multiple Hall and Department Structure",
+        "topicDetails": "Organised data by dividing the hostel into discrete halls, and then further categorising each hall into a department."
+      },
+      {
+        "topic": "Personalised Student Portals",
+        "topicDetails": "Give each student a portal to view personal data unique to their department and residence hall."
+      },
+      {
+        "topic": "Management Admin Panel",
+        "topicDetails": "Provide an admin panel that allows administrators to manage user roles administratively."
+      },
+      {
+        "topic": "User Authentication and Authorization",
+        "topicDetails": "Use secure login systems with separate user roles (administration, food manager, and student) to safeguard user privacy."
+      },
+      {
+        "topic": "Meal History",
+        "topicDetails": "Students can access their complete meal history, tracking how many meals they've used, the cost per meal, and any remaining or due amounts."
+      },
+      {
+        "topic": "Departmental Integration",
+        "topicDetails": "The website is structured to cater to different university departments, ensuring each one has a customized experience in managing meals and payments."
+      },
+      {
+        "topic": "Secure Data Handling",
+        "topicDetails": "Implemented robust security measures to protect user data and ensure data privacy."
+      }
+    ]
+  }
+]
